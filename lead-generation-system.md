@@ -1,5 +1,10 @@
 # Lead Creation/Generation System for a Tax Firm
 
+## Execution Kit (Templates)
+- [Lead Tracker CSV](templates/lead-tracker.csv)
+- [Outreach Scripts](templates/outreach-scripts.md)
+- [30-Day Launch Plan (Daily Checklist)](templates/30-day-launch-plan.md)
+
 ## 1) Outcomes & Targets
 - **Primary outcome:** qualified discovery calls with businesses and high-value individuals.
 - **Monthly targets (example, adjust to capacity):**
